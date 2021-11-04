@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.study.rpc.RemoteInvokeHandler,\
+  com.study.rpc.processor.ReferenceInvokeProxy
